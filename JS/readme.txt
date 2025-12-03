@@ -1,1 +1,1 @@
-"JavaScript concepts required for backend" 
+JavaScript concepts required for backend
