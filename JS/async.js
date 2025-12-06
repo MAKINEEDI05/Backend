@@ -10,7 +10,7 @@ const myfun=async()=>{
     const result=await getUserDetails("123");
     console.log(result);
     console.log("world")
-};
+}; 
 myfun();
 
 // if we dont await we will get promise pending
