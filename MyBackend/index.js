@@ -1,7 +1,8 @@
 const express=require("express");
 const app=express();
 app.use(express.json());
-app.get("/",(req,res)=>{
+app.get("/users",(req,res)=>{
+    console.log("Data printed");
     res.send("Backend is running");
 });
 app.post('/add-user',(req,res)=>{
