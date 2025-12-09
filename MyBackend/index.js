@@ -1,6 +1,7 @@
 const express=require("express");
 const app=express();
 app.use(express.json());
+// need to use a middle ware when we need to access or update the data
 app.get("/users",(req,res)=>{
     console.log("Data printed");
     res.send("Backend is running");
