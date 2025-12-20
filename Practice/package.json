@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Backend Practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAKINEEDI05/backend.git"
+  },
+  "author": "Lakshmi Narayana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAKINEEDI05/backend/issues"
+  },
+  "homepage": "https://github.com/MAKINEEDI05/backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

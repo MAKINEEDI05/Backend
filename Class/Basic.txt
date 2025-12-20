@@ -1,0 +1,5 @@
+Basic syntax to setup backend
+npm init
+
+to install express
+npm i express
